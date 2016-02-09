@@ -132,6 +132,10 @@ This service comes close to Parse with its online/offline data syncing, user aut
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/40)*)
 
+- **[Red Hat](https://www.redhat.com/en/technologies/mobile/application-platform)**
+Red Hat Mobile Application Platform, formerly FeedHenry core platform features include user management, lifecycle management, resource monitoring, push notification server, analytics, binary build farm, forms builder, resource management among other features through an easy to use modern User Interface (UI), our MBaaS component based on open technologies and Node.js provides the server runtime environment for high-performance server-side apps (cloud apps) for developers to build in conjunction with the client app development and securely integrate with back-end systems.
+
+
 - **[Reindex](https://www.reindex.io)**
 Backend as a service with a GraphQL API. Reindex offers data storage, authentication, permissions, hooks for integrating with third-party services and custom code, and an open source SDK.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/99)*)
